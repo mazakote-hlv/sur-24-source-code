@@ -1,6 +1,6 @@
 # 💻 SUR 24 Source Code 💻
 
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
+<img src="https://img.shields.io/badge/SUR%202024%20source%20code-8A2BE2">
 
 - **📋 Mazakote SUR24 electronics**
 - **⚡ Micropython for ESP32**
