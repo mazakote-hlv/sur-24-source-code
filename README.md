@@ -1,2 +1,6 @@
-# sur-24-source-code
-The source code of the solar vehicle for the 2024 SUR (Sustainable Urban Race)
+# 💻 SUR 24 Source Code 💻
+
+**📋 Mazakote SUR24 electronics**
+**⚡ Micropython for ESP32**
+**🚨 Control of turn signals, emergency lights and SMS failure warning**
+**🌍 Interface with A9G module via UART, OLED display SSD1306**
